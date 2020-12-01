@@ -1,0 +1,4 @@
+Date,Orders (in thousands),Customers (in thousands),Average Order Value,Orders per Customer,Average Revenue per Customer,Net Revenue (in millions),Net Revenue (percentage change),Net Loss (in millions),Stock Price
+3/30/2020,1763,376,57.68,4.7,271,101.9,0.28,20.1,12.05
+6/30/2020,2152,396,60.88,5.4,331,131,0.29,331,11.09
+9/30/2020,1917,357,58.56,5.4,314,345.15,-0.0427,314,7.16
